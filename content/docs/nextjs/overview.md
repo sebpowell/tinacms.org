@@ -1,7 +1,7 @@
 ---
 id: /docs/nextjs/overview
-title: Using Tina with NextJS
-next:
+title: UsingsdfgdsfgsdgsdfgsdfgtJS
+next: null
 ---
 
 NextJS is a relatively open-ended framework and there are many different ways to build with it. If you're new to NextJS, [this blog](/blog/simple-markdown-blog-nextjs) is a great place to start getting familiar with the framework.
